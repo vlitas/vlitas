@@ -1,0 +1,6 @@
+vlitas-qt usr/bin
+share/pixmaps/vlitas32.xpm usr/share/pixmaps
+share/pixmaps/vlitas16.xpm usr/share/pixmaps
+share/pixmaps/vlitas128.png usr/share/pixmaps
+debian/vlitas-qt.desktop usr/share/applications
+debian/vlitas-qt.protocol usr/share/kde4/services/
